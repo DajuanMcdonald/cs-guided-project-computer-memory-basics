@@ -9,7 +9,7 @@ Output: "lambdaschool"
 
 Example 2:
 
-Input: "austen"
+Input: "Austen"
 Output: "austen"
 
 Example 3:
@@ -23,4 +23,4 @@ if there is a mathematical approach that you can take.*
 """
 def to_lower_case(string):
     # Your code here
-
+    pass
